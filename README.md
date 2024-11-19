@@ -1,5 +1,5 @@
 # KuiperLLM
-Implement  a high-performance large language model (LLM) inference framework KuiperLLM based on C++ from scratch.
+Implement  a high-performance large language model (LLM) inference framework named KuiperLLM based on C++ from scratch.
 
 1. 采用最新的C++ 20标准去写代码，统一、美观的代码风格，良好的错误处理；
 2. 优秀的项目管理形式，同时采用CMake+Git的方式管理项目；
