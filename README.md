@@ -43,9 +43,6 @@ KuiperLLM
 - TinyLLama分词器 https://huggingface.co/yahma/llama-7b-hf/blob/main/tokenizer.model
 
 3. Qwen2.5/LLama
-   
-   请参考本项目配套课程，课程参加方式请看本文开头。
-
 
 ### 模型导出
 ```shell
@@ -53,8 +50,6 @@ python export.py llama2_7b.bin --meta-llama path/to/llama/model/7B
 # 使用--hf标签从hugging face中加载模型， 指定--version3可以导出量化模型
 # 其他使用方法请看export.py中的命令行参数实例
 ```
-
-
 ### 编译方法
 ```shell
   mkdir build 
