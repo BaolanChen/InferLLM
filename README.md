@@ -3,7 +3,7 @@
 KuiperLLM
 ===========================
 <h4>A high-performance deep learning inference framework for large language model (LLM)</h4>
-<h4>Implement with C++ from Scratch</h4>
+<h4>Implement KuiperLLM based on C++ from Scratch</h4>
 
 ---
 <div align="left">
