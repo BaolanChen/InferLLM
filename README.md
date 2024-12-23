@@ -9,7 +9,7 @@ KuiperLLM
 <div align="left">
 
 ### 命名含义
-Kuiper命名来源于“Project Kuiper”计划，其含义为希望开源研发人员像各个卫星一样组成网络进行协同，共同研发完成Kuiper项目。
+**Kuiper命名来源于“Project Kuiper”计划**，其含义为希望开源研发人员像各个卫星一样组成网络进行协同，共同研发完成Kuiper项目。
 
 “Project Kuiper”是亚马逊旗下太空互联网项目，计划在低地球轨道上建立一个由3236颗卫星组成的网络，为全球各地提供高速互联网。
 
