@@ -43,7 +43,7 @@ Kuiper命名来源于“Project Kuiper”计划，其含义为希望开源研发
 
 
 ### 模型下载地址
-1. LLama2 https://pan.baidu.com/s/1PF5KqvIvNFR8yDIY1HmTYA?pwd=ma8r 或 https://huggingface.co/fushenshen/lession_model/tree/main
+1. LLama2 https://huggingface.co/fushenshen/lession_model/tree/main
 
 2. Tiny LLama 
 - TinyLLama模型 https://huggingface.co/karpathy/tinyllamas/tree/main
