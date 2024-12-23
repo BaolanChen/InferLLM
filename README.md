@@ -32,7 +32,9 @@ KuiperLLM
 | 4. RMSNorm算子的Cuda实现          | 1. Cuda基础，Thread和Block的定义；2. RMSNorm算子的公式讲解；3.RMSNorm算子的CUDA和CPU实现；4.CUDA中的块内规约实现原理(BlockReduce)。 |
 | 5. Nsight调优Cuda算子          | 1. 让更多的Cuda线程来参与归约计算的过程；2. 纠正第5次课程cuda代码中的一些纰漏；3. 利用Nsight软件的分析结果指导Cuda代码的编写和调优。 |
 | 6. LLama模型的量化          | 1. 怎么导出量化后的LLama模型；2. 加载LLama量化模型和非量化模型有什么异同；3. 怎么利用量化系数反推得到量化前的浮点权重。|
-| 7. CUDA张量实现          | 
+| 7. CUDA张量实现          | |
+| 8. 内存实现          | |
+| 9. 模型权重          | 
 
 
 ### 第三方依赖
